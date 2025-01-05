@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font-style: italic;
+    color: beige;
+    overflow-x: hidden;
+  }
+  h2 {
+    transition: transform ease 1.5s;
+  }
+  h2:hover {
+    transform: scale(1.35);
+  }
+  button {
+    padding: 5px;
+    margin: 5px;
+  }
