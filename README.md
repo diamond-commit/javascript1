@@ -2,7 +2,7 @@
 ## Project name
 ### Color Picker
 ## About
-this is a beginner projrct about a page where u can choose what color the background page should be 
+This is a beginner-friendly project showcasing a simple color picker webpage. Users can choose a background color for the page using the buttons provided. Additionally, the "Color Picker" heading dynamically changes its color when hovered over, adding an interactive and visually engaging element to the project.
  ## Cloning
  ### for the color project  https://github.com/diamond-commit/javascript1.git
  ## Contribution 
