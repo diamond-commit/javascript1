@@ -13,4 +13,9 @@ body {
   button {
     padding: 5px;
     margin: 5px;
+    transition:   transform 1.5s ease, background-color 1s;
   }
+  li{
+    list-style: none;
+  }
+  
