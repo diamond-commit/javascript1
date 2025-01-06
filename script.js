@@ -54,9 +54,9 @@ Blue.addEventListener("click", function() {
 historyContainer.addEventListener("click", function() {
   block.style.width = "150px";
   block.style.height = "auto"; // Allow height to grow as needed
-  block.style.backgroundColor = "transparent";
+  historyContainer.style.backgroundColor = "transparent";
   block.style.fontStyle = "italic";
-  
+  block.style.color = "white"
   // Append color history items to the block
   colorList.forEach(item => {
     block.appendChild(item);
