@@ -2,9 +2,8 @@
 ## Project name
 ### Color Picker
 ## About
-This is a beginner-friendly project showcasing a simple color picker webpage. Users can choose a background color for the page using the buttons provided. Additionally, the "Color Picker" heading dynamically changes its color when hovered over, adding an interactive and visually engaging element to the project.
+This is a beginner-friendly project showcasing my Front end skills with a simple color picker webpage. Users can choose a background color for the page using the buttons provided. Additionally, the "Color Picker" heading dynamically changes its color when hovered over, adding an interactive and visually engaging element to the project.
 ## How To Use
-Explain how users can interact with your project, such as:
 Clicking on different color buttons to change the background.
 Viewing the color history by clicking the "History" button.
  ## Cloning
